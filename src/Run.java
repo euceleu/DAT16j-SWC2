@@ -19,6 +19,5 @@ public class Run {
         System.out.println(eduards.peak()); //7
         System.out.println(eduards.pop()); //7
         System.out.println(eduards.pop()); //7
-        System.out.println(eduards.pop()); //7
     }
 }
